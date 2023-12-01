@@ -1,2 +1,2 @@
-# LLM_from_Scratch
-Creating and training my own personal LLM.
+# Bigram_Language_Model
+Creating and training a Bigram Language Model.
